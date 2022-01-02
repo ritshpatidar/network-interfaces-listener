@@ -11,6 +11,14 @@
     "network interfaces listner",
     "network interfaces change listner"
   ],
-  "author": "ritshpatidar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ritshpatidar/network-interfaces-listener.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ritshpatidar/network-interfaces-listener/issues"
+  },
+  "homepage": "https://github.com/ritshpatidar/network-interfaces-listener#readme",
+  "author": "Ritesh Patidar",
   "license": "MIT"
 }
