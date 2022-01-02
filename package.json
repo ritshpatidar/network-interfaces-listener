@@ -1,0 +1,16 @@
+{
+  "name": "network-interfaces-listener",
+  "version": "1.0.0",
+  "description": "listens change in network interfaces. If they become active, or inactive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "network-interfaces-listener",
+    "network interfaces listner",
+    "network interfaces change listner"
+  ],
+  "author": "ritshpatidar",
+  "license": "MIT"
+}
